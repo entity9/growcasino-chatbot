@@ -10,3 +10,4 @@ ChatBot for Growcasino
 - !top - top 3 people on leaderboards by net profit
 - !dice - rolls a random number from 1 to 6
 - !flip - randomly chooses heads or tails
+- once bot's balance changes it will announce it in chat
